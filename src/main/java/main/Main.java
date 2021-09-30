@@ -3,7 +3,7 @@ package main;
 import javafx.application.Application;
 
 /**
- * {@code main()} Ebben az osztályban kezdődik a játék lefutása {@code main()}
+ * {@code main()} Ebben az osztályban kezdődik a konverter lefutása {@code main()}
  */
 public class Main {
 
