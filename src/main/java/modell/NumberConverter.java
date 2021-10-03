@@ -1,6 +1,8 @@
+package modell;
+
 import javafx.util.StringConverter;
 
-public class NumberConverter  extends StringConverter<String> {
+public class NumberConverter extends StringConverter<String> {
 
         private int from;
         private int to;

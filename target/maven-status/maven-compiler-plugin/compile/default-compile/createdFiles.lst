@@ -1,5 +1,5 @@
 main/MyApplication.class
 controller/LaunchController.class
-NumberConverter.class
+modell/NumberConverter.class
 controller/ConverterController.class
 main/Main.class
