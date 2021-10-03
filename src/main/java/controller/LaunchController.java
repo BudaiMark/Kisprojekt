@@ -47,7 +47,7 @@ public class LaunchController {
             Stage stage = (Stage) ((Node) actionEvent.getSource()).getScene().getWindow();
             stage.setScene(new Scene(root));
             stage.show();
-            Logger.info("Az első kérdés betöltődik.");
+            Logger.info("Betöltődik a konvertáló felület.");
 
 
     }
