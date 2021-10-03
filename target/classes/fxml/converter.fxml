@@ -19,7 +19,7 @@
     <children>
         <Label text="Decimal">
             <font>
-                <Font name="Dyuthi" size="18.0"/>
+                <Font name="Dyuthi" size="20.0"/>
             </font>
         </Label>
         <Label text="Binary" GridPane.rowIndex="1">
